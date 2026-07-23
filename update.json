@@ -1,9 +1,8 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-OPTICA-ORBERA/releases/download/v1.0.1/SAIMUS-APP-OPTICA-ORBERA.exe",
-  "sha256": "REEMPLAZAR_POR_EL_SHA256_REAL_DEL_EJECUTABLE",
+  "version": "1.0.0",
+  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-OPTICA-ORBERA/releases/download/v1.0.0/SAIMUS-APP-OPTICA-ORBERA.exe",
+  "sha256": "4798AED1640FFEAFC258B38CDC77F4A0521007868CF6A06AE6AA5E0F43A8B207",
   "changelog": [
-    "Primera mejora de la versión actualizable.",
-    "Correcciones y mejoras de estabilidad."
+    "Primera versión actualizable de SAIMUS/APP Óptica Orbera."
   ]
 }
